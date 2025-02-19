@@ -1,11 +1,17 @@
-   {
-     "version": "1.0.0",
-     "force_update": false,
-     "min_version": "1.0.0",
-     "latest_features": [
-       "ميزة جديدة 1",
-       "ميزة جديدة 2",
-       "إصلاح مشكلة كذا"
-     ],
-     "update_url": "https://play.google.com/store/apps/details?id=com.yourapp"
-   }
+{
+  "version": "1.0.0",
+  "force_update": false,
+  "min_version": "1.0.0",
+  "title": "تحديث جديد! 🎉",
+  "description": "متوفر تحديث جديد يحتوي على تحسينات وإصلاحات مهمة",
+  "latest_features": [
+    "تحسينات في واجهة المستخدم",
+    "إصلاح مشكلات الأداء",
+    "تحسينات في الأمان",
+    "مميزات جديدة"
+  ],
+  "update_url": "https://play.google.com/store/apps/details?id=com.yourapp",
+  "update_button_text": "تحديث الآن",
+  "later_button_text": "لاحقاً",
+  "force_update_message": "يجب تحديث التطبيق للاستمرار في استخدامه"
+}
